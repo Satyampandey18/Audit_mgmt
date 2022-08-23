@@ -1,0 +1,101 @@
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\ocelot.dev.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\ocelot.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.exe
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.deps.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.dev.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.pdb
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.AssemblyReference.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfoInputs.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfo.cs
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CoreCompileInputs.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.xml
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIGateway.styles.css
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorTargetAssemblyInfo.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CopyComplete
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.pdb
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.genruntimeconfig.cache
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\appsettings.json
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\ocelot.dev.json
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\ocelot.json
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.exe
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.deps.json
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.json
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.dev.json
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.dll
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.pdb
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\audit management\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+E:\audit management\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.AssemblyReference.cache
+E:\audit management\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\audit management\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfoInputs.cache
+E:\audit management\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfo.cs
+E:\audit management\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CoreCompileInputs.cache
+E:\audit management\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\audit management\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\audit management\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+E:\audit management\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.xml
+E:\audit management\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\scopedcss\bundle\APIGateway.styles.css
+E:\audit management\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorTargetAssemblyInfo.cache
+E:\audit management\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CopyComplete
+E:\audit management\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.dll
+E:\audit management\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.pdb
+E:\audit management\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.genruntimeconfig.cache
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\ocelot.dev.json
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\ocelot.json
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.StaticWebAssets.xml
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.exe
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.deps.json
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.json
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.runtimeconfig.dev.json
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\APIGateway.pdb
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\bin\Debug\netcoreapp3.1\Ocelot.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.AssemblyReference.cache
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfoInputs.cache
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.AssemblyInfo.cs
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CoreCompileInputs.cache
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\staticwebassets\APIGateway.StaticWebAssets.Manifest.cache
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.RazorTargetAssemblyInfo.cache
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.csproj.CopyComplete
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.pdb
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\APIGateway\APIGateway\obj\Debug\netcoreapp3.1\APIGateway.genruntimeconfig.cache

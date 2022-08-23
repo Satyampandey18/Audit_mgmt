@@ -1,0 +1,105 @@
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\aws-beanstalk-tools-defaults.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.exe
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.deps.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.dev.json
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.AssemblyReference.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfoInputs.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfo.cs
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CoreCompileInputs.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditBenchmarkModule.StaticWebAssets.Manifest.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditBenchmarkModule.StaticWebAssets.xml
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuditBenchmarkModule.styles.css
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.RazorTargetAssemblyInfo.cache
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CopyComplete
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\Users\binit\OneDrive\Desktop\audit\AuditManagement_POD4-main\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.genruntimeconfig.cache
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.config
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\aws-beanstalk-tools-defaults.json
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.StaticWebAssets.xml
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.exe
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.deps.json
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.json
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.runtimeconfig.dev.json
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\log4net.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.AssemblyReference.cache
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfoInputs.cache
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.AssemblyInfo.cs
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CoreCompileInputs.cache
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\staticwebassets\AuditBenchmarkModule.StaticWebAssets.Manifest.cache
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.RazorTargetAssemblyInfo.cache
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.csproj.CopyComplete
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.dll
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.pdb
+C:\Users\2063372\OneDrive - Cognizant\Desktop\ams\AMS-master\backend\AuditBenchmarkModule\AuditBenchmarkModule\obj\Debug\netcoreapp3.1\AuditBenchmarkModule.genruntimeconfig.cache
